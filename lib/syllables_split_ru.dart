@@ -1,4 +1,4 @@
-/// Splits words in a sentence into syllables with [delimiter].
+/// Splits words in a sentence into syllables with [separator].
 List<String> split(String sentence, {String separator = '-'}) {
   final words = sentence.split(' ');
   return words.map((word) => splitWord(word).join(separator)).toList();
