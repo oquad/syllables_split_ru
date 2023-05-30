@@ -1,0 +1,11 @@
+name: syllables_split_ru
+description: Helps with splitting words to syllables in russian language.
+version: 1.0.0
+repository: https://github.com/oquad/syllables_split_ru
+
+environment:
+  sdk: ^3.0.1
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0

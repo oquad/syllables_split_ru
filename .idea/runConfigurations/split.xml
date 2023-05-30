@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="split" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <option name="arguments" value="мама мыла раму" />
+    <option name="filePath" value="$PROJECT_DIR$/bin/syllables_split_ru.dart" />
+    <method v="2" />
+  </configuration>
+</component>

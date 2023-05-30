@@ -1,2 +1,2 @@
-# syllables_split_ru
-Dart package to help you split a string into syllables.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
